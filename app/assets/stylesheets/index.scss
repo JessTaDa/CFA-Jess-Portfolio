@@ -2,7 +2,7 @@
 
 .top {
   display: flex;
-  background-image: url("purplesplash.jpg");
+  background-image: image-url("purplesplash.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -150,7 +150,7 @@ font-weight: lighter;
 .ending {
   height: 500px;
   display: flex;
-  background-image: url("bluesplashend.jpg");
+  background-image: image-url("bluesplashend.jpg");
   background-repeat: no-repeat;
   // background-attachment: fixed;
   background-position: center;
